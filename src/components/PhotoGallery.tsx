@@ -4,27 +4,27 @@ const PhotoGallery = () => {
   const photos = [
     {
       placeholder:
-        "https://images.unsplash.com/photo-1518621012118-1d2cc6b0bb67?w=400&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=400&h=300&fit=crop",
       title: "Наша первая встреча",
-      description: "Тот самый день, 17 мая",
+      description: "Как два котёнка нашли друг друга 🐱💕",
     },
     {
       placeholder:
-        "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=400&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1533738363-b7f9aef128ce?w=400&h=300&fit=crop",
       title: "Первое свидание",
-      description: "Незабываемый вечер",
+      description: "Мурчали от счастья весь вечер 🥰",
     },
     {
       placeholder:
-        "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=400&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=400&h=300&fit=crop",
       title: "Наши моменты",
-      description: "Каждый день особенный",
+      description: "Каждый день мяукаем от любви 💖",
     },
     {
       placeholder:
-        "https://images.unsplash.com/photo-1518299440405-7a2ea8ad8432?w=400&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1574158622682-e40e69881006?w=400&h=300&fit=crop",
       title: "Вместе навсегда",
-      description: "И это только начало",
+      description: "Мой котик и я — пушистая любовь 🐾",
     },
   ];
 
